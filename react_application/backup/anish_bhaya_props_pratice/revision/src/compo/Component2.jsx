@@ -1,10 +1,10 @@
 import React from 'raect';
+import Anish from 'Component1';
 
 class Manish extends React.Component{
-    render(){
+    render(props){
         return<>
-        {this.props.details.name}
+        <Anish {props.obj.name}/>
         </>
     }
 }
-export default Manish;

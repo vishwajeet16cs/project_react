@@ -1,0 +1,15 @@
+.classback{
+    background-image: url("../pizza.jpg");
+    border-radius: 30px;
+}
+/* plzz dont go to image i have put it for learning purpos 😋 */
+.h5classForm {
+    color: aqua;
+}
+.labelnameForm{
+    color: burlywood;
+}
+.card-body{
+    background-image: url("./vegthali.jpg");
+    border-radius: 30px;
+}
